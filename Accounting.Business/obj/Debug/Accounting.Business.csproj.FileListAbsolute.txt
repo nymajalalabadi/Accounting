@@ -1,0 +1,16 @@
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.Business.dll
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.Business.pdb
+E:\proj c#\Accounting.APP\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+E:\proj c#\Accounting.APP\Accounting.Business\obj\Debug\Accounting.Business.dll
+E:\proj c#\Accounting.APP\Accounting.Business\obj\Debug\Accounting.Business.pdb
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\EntityFramework.dll
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\EntityFramework.SqlServer.dll
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\EntityFramework.xml
+E:\proj c#\Accounting.APP\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\proj c#\Accounting.APP\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+E:\proj c#\Accounting.APP\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete

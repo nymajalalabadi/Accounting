@@ -1,0 +1,5 @@
+E:\proj c#\Accounting.APP\Accounting.Utlity\bin\Debug\Accounting.Utlity.dll
+E:\proj c#\Accounting.APP\Accounting.Utlity\bin\Debug\Accounting.Utlity.pdb
+E:\proj c#\Accounting.APP\Accounting.Utlity\obj\Debug\Accounting.Utlity.csproj.CoreCompileInputs.cache
+E:\proj c#\Accounting.APP\Accounting.Utlity\obj\Debug\Accounting.Utlity.dll
+E:\proj c#\Accounting.APP\Accounting.Utlity\obj\Debug\Accounting.Utlity.pdb
